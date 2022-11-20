@@ -9,7 +9,7 @@ int Force::force(const char* TStr, const char* PStr, int TLen, int PLen)
 			}
 			else {
 				c = c - d + 1;
-				d = 0;
+				d = 0;  
 			}
 		}
 		if (d == PLen) {
