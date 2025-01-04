@@ -1,0 +1,6 @@
+﻿  demp1.cpp
+D:\workspace\ZK_master\ZK_master\ZK_master\demp1.cpp(53,41): warning C4554: “<<”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+D:\workspace\ZK_master\ZK_master\ZK_master\demp1.cpp(56,30): warning C4554: “<<”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+D:\workspace\ZK_master\ZK_master\ZK_master\demp1.cpp(194,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\workspace\ZK_master\ZK_master\ZK_master\demp1.cpp(195,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  ZK_master.vcxproj -> D:\workspace\ZK_master\ZK_master\ZK_master\x64\Debug\ZK_master.exe
