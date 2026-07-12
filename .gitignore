@@ -1,0 +1,52 @@
+# Build directories
+build/
+cmake-build-*/
+x64/
+Debug/
+Release/
+out/
+
+# Visual Studio
+.vs/
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.aps
+*.suo
+*.sdf
+*.opendb
+*.VC.db
+Browse.VC.db
+Browse.VC.opendb
+
+# Compiled output
+*.exe
+*.dll
+*.so
+*.dylib
+*.obj
+*.o
+*.pdb
+*.ilk
+*.idb
+*.lib
+*.exp
+*.tlog
+*.recipe
+*.log
+*.lastbuildstate
+*.FileListAbsolute.txt
+
+# Datasets (download separately)
+datasets/gene_data/
+datasets/text_data/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
