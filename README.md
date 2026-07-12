@@ -228,20 +228,6 @@ cmake .. -DCMAKE_BUILD_TYPE=Debug
 cmake .. -DCMAKE_CXX_COMPILER=clang++-14
 ```
 
-## Citation
-
-If you use this code in your research, please cite:
-
-```bibtex
-@article{kong2024zk,
-  title     = {A Dual-Heuristic String Matching Algorithm Based on Structural Constraint Propagation},
-  author    = {Kong, Dechao},
-  journal   = {Pattern Analysis and Applications},
-  year      = {2024},
-  publisher = {Springer}
-}
-```
-
 ## License
 
 This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
